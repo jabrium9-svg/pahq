@@ -8,7 +8,7 @@ export default function Home() {
             PowerAdmin<span className="text-gold">HQ</span>
           </span>
           <a
-            href="https://app.jabrium.com"
+            href="https://app.jabrium.com?source=pahq&admin=website"
             className="bg-navy text-white px-5 py-2 rounded-md text-sm font-medium hover:bg-navy-dark transition-colors"
           >
             Get Started
@@ -34,7 +34,7 @@ export default function Home() {
             into a profession.
           </p>
           <a
-            href="https://app.jabrium.com"
+            href="https://app.jabrium.com?source=pahq&admin=website"
             className="inline-block bg-navy text-white px-8 py-3.5 rounded-md text-base font-medium hover:bg-navy-dark transition-colors"
           >
             Get Started
@@ -342,7 +342,7 @@ export default function Home() {
             Join community leaders who are turning their groups into businesses.
           </p>
           <a
-            href="https://app.jabrium.com"
+            href="https://app.jabrium.com?source=pahq&admin=website"
             className="inline-block bg-navy text-white px-8 py-3.5 rounded-md text-base font-medium hover:bg-navy-dark transition-colors"
           >
             Get Started
